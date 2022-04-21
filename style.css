@@ -1,3 +1,35 @@
+CSS:
+
 *{
-   margin: 0;
+    margin: 0;
+    padding: 0;
+    feComponentTransfer
+    
+}
+
+p{
+    margin: 15px;
+    line-height: 2.5em;
+}
+
+a:hover{
+    color:palevioletred;
+}
+
+.double-line{
+    text-decoration: underline overline;
+}
+
+span{
+    font-size: 50px;   
+}
+
+.green{
+   color: #71ae73;
+}
+.red{
+   color: #f00;
+}
+.blue{
+   color: #00f;
 }
